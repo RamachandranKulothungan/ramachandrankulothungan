@@ -23,11 +23,11 @@ As part of my master's program, I'm diving deep into the world of **Machine Lear
 
 ## 🛠️ **Projects**
 I've worked on various exciting projects through **hackathons, personal exploration, and academic pursuits:**
-
-- **📊 [Sorting Algorithm Visualizer](https://ramachandrankulothungan.github.io/viewsort/):** A web app to visualize and compare sorting algorithms interactively.  
-- **🎌 Anime Recommendation Engine:** Suggests anime based on **user demographics and viewing history**.  
-- **🏥 Lighthouse Workflow Automation (AI Hackathon - 1st Place):** Developed a web app to optimize workflows for **Lighthouse Free Medical Clinic**.  
-- **📧 Job Application Email Bot:** Automated email workflows to send **customized job applications** efficiently.  
+- ** [Digit doogle recognizer](https://huggingface.co/spaces/ramachandrankulothungan/digit_doodle_recognition)**: A web app to classify doodles of digits to their respective number
+- ** [Sorting Algorithm Visualizer](https://ramachandrankulothungan.github.io/viewsort/):** A web app to visualize and compare sorting algorithms interactively.  
+- ** Anime Recommendation Engine:** Suggests anime based on **user demographics and viewing history**.  
+- ** Lighthouse Workflow Automation (AI Hackathon - 1st Place):** Developed a web app to optimize workflows for **Lighthouse Free Medical Clinic**.  
+- ** Job Application Email Bot:** Automated email workflows to send **customized job applications** efficiently.  
 
 Feel free to explore these projects in my repositories!
 
